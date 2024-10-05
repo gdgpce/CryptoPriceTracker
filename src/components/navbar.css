@@ -1,0 +1,26 @@
+.navbar {
+    background-color: #333; /* Dark background */
+    padding: 1rem; /* Spacing around the navbar */
+}
+
+.navbar-links {
+    list-style-type: none; /* Remove bullet points */
+    display: flex; /* Align links in a row */
+    justify-content: space-around; /* Space links evenly */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+}
+
+.navbar-links li {
+    display: inline; /* Display links inline */
+}
+
+.navbar-links a {
+    color: white; /* White text color */
+    text-decoration: none; /* Remove underline */
+    padding: 0.5rem 1rem; /* Padding around links */
+}
+
+.navbar-links a:hover {
+    background-color: #555; /* Change background on hover */
+}
