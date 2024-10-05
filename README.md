@@ -19,7 +19,7 @@ CryptoPriceTracker is a simple web dashboard that fetches and displays real-time
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/CryptoPriceTracker.git
+git clone https://github.com/gdgpce/CryptoPriceTracker.git
 cd CryptoPriceTracker
 ```
 
