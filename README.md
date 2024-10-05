@@ -1,4 +1,3 @@
-# CryptoPriceTracker
 
 # CryptoPriceTracker Dashboard
 
