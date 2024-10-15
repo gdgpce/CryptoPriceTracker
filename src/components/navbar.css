@@ -1,0 +1,33 @@
+ 
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  background-color: #282c34;
+  color: white;
+  margin-bottom: 2rem;
+}
+
+.navbar h2 {
+  margin: 0;
+}
+
+.theme-toggle button {
+  background-color: transparent;
+  border: 1px solid white;
+  color: white;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.theme-toggle button:hover {
+  background-color: white;
+  color: #282c34;
+}
+ 
+.App.dark .navbar {
+  background-color: #1a1a1a;
+}
